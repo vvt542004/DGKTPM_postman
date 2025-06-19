@@ -12,11 +12,40 @@ Tổng Quan Về Postman
 
 Khái Niệm: Postman là một công cụ được phát triển bởi Postdot Technologies, bắt đầu từ năm 2012, nhằm hỗ trợ việc kiểm thử API.
 
-Phiên Bản: Hiện tại, Postman có ba phiên bản chính:
+🔧 Postman dùng để làm gì? Gửi yêu cầu HTTP: Gửi các loại yêu cầu như:
 
-Postman (phiên bản miễn phí)
-Postman Pro (ra mắt năm 2016)
-Postman Enterprise (ra mắt năm 2017)
+GET – Lấy dữ liệu
+
+POST – Gửi dữ liệu mới
+
+PUT – Cập nhật dữ liệu
+
+DELETE – Xoá dữ liệu
+
+Xem phản hồi từ server: Bao gồm:
+
+Mã trạng thái (200, 404, 500…)
+
+Header
+
+Body (dạng JSON, HTML, XML…)
+
+Viết kiểm thử tự động: Dùng JavaScript để viết test script trong tab Tests, nhằm kiểm tra:
+
+Mã trạng thái
+
+Nội dung JSON
+
+Định dạng, thời gian phản hồi
+
+Tổ chức các yêu cầu thành Collection: Giúp quản lý các nhóm API của một dự án lớn và chia sẻ với nhóm khác.
+
+Chạy kiểm thử tự động hàng loạt (Collection Runner) Có thể chạy nhiều API liên tục và báo cáo kết quả test.
+
+Mô phỏng server bằng Mock Server Mô phỏng phản hồi từ API khi backend chưa sẵn sàng.
+
+Tích hợp CI/CD và xuất báo cáo test Dùng kết hợp với Newman để chạy Postman script trong pipeline.
+
 Ưu Điểm Của Postman
 
 Dễ sử dụng với giao diện thân thiện.
@@ -25,32 +54,11 @@ Cho phép viết mã tự động hóa kiểm tra bằng JavaScript.
 Hỗ trợ cả dịch vụ RESTful và SOAP.
 Có chức năng tạo tài liệu API.
 Nhược Điểm Của Postman
-
 Các tính năng nâng cao chỉ có sẵn trong các phiên bản trả phí, như làm việc theo nhóm và hỗ trợ trực tiếp.
 Cài Đặt Postman
 
 Người dùng có thể tải Postman từ trang web chính thức: Postman Download.
 Các Thành Phần Chính Của Postman
-
-Settings:
-
-Chứa thông tin cài đặt chung, bao gồm thông tin tài khoản và tùy chỉnh giao diện.
-Cho phép nhập dữ liệu từ bên ngoài.
-Collections:
-
-Lưu trữ thông tin của các API theo thư mục hoặc theo thời gian.
-API Content:
-
-Hiển thị nội dung chi tiết của API và các phần hỗ trợ để thực hiện kiểm thử.
-Các Thành Phần Chính Trong Kiểm Thử API
-
-Environments: Chứa thông tin về các môi trường khác nhau như dev, staging và production, giúp dễ dàng chuyển đổi giữa các môi trường mà không cần thay đổi URL từng yêu cầu.
-
-Request: Phần chứa thông tin chính của API, cho phép người dùng gửi yêu cầu đến server.
-
-Response: Chứa thông tin trả về từ server sau khi gửi yêu cầu, giúp người dùng kiểm tra kết quả.
-
-Postman là một công cụ mạnh mẽ cho việc phát triển và kiểm thử API, giúp tiết kiệm thời gian và nâng cao hiệu quả làm việc của lập trình viên.
 
 1. Mục Tiêu Kiểm Thử: Sử dụng Postman để kiểm thử một API thực tế
 
