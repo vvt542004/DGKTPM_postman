@@ -9,7 +9,7 @@ Người Kiểm Thử: Vũ Viết Tuấn
 
 3. Phương Pháp Kiểm Thử: Kiểm thử tự động và thủ công trên phần mềm Postman.
 
-4. Kịch Bản Kiểm Thử Lần 1:
+4. Kịch Bản Kiểm Thử:
    
 Phương Thức HTTP (GET/POST/PUT/DELETE): GET
 
@@ -25,7 +25,7 @@ Kết quả sau khi kiểm thử:
 ![image](https://github.com/user-attachments/assets/9104d6b6-6f94-44e4-b146-d7c8bb22a4ad)
 
 
-5. Kịch Bản Kiểm Thử Lần 2:
+5. Kịch Bản Kiểm Thử:
    
 Phương Thức HTTP (GET/POST/PUT/DELETE): POST
 
@@ -42,7 +42,7 @@ Kết quả sau khi kiểm thử:
 
 
 
-6. Kịch Bản Kiểm Thử Lần 3:
+6. Kịch Bản Kiểm Thử:
    
 Phương Thức HTTP (GET/POST/PUT/DELETE): PUT
 
@@ -57,7 +57,7 @@ Trạng Thái: Thành công
 Kết quả sau khi kiểm thử:
 ![image](https://github.com/user-attachments/assets/6cdabf6d-0e39-4be5-9a30-dd6654367e72)
 
-7. Kịch Bản Kiểm Thử Lần 4:
+7. Kịch Bản Kiểm Thử:
    
 Phương Thức HTTP (GET/POST/PUT/DELETE): DELETE
 
@@ -72,6 +72,16 @@ Trạng Thái: Thành công
 Kết quả sau khi kiểm thử:
 ![image](https://github.com/user-attachments/assets/345b3063-578e-46a0-9b07-54c3bc153f8c)
 
+8. Test
+![image](https://github.com/user-attachments/assets/1271bdfa-3a73-437d-873b-77fa90dacfd5)
+![image](https://github.com/user-attachments/assets/b7a48bbe-fd2d-4658-be0f-52db0e10323b)
+![image](https://github.com/user-attachments/assets/412e2a67-1865-4675-8c01-3496217e50de)
+![image](https://github.com/user-attachments/assets/ffc7fd13-350b-4945-bd15-8e153251492e)
+
+
+
+
+   
 
 
 
