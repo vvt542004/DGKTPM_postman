@@ -76,7 +76,8 @@ Kết quả sau khi kiểm thử:
 ![image](https://github.com/user-attachments/assets/1271bdfa-3a73-437d-873b-77fa90dacfd5)
 ![image](https://github.com/user-attachments/assets/b7a48bbe-fd2d-4658-be0f-52db0e10323b)
 ![image](https://github.com/user-attachments/assets/412e2a67-1865-4675-8c01-3496217e50de)
-![image](https://github.com/user-attachments/assets/ffc7fd13-350b-4945-bd15-8e153251492e)
+![image](https://github.com/user-attachments/assets/b3675215-c4d0-48b3-b2f8-8053adf4cdf7)
+
 
 
 
