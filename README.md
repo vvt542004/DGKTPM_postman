@@ -61,7 +61,7 @@ Kết quả sau khi kiểm thử:
    
 Phương Thức HTTP (GET/POST/PUT/DELETE): DELETE
 
-URL: https://jsonplaceholder.typicode.com/posts
+URL: https://jsonplaceholder.typicode.com/posts/1
 
 Kết Quả Mong Đợi: Gửi yêu cầu thành công
 
