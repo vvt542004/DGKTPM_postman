@@ -25,4 +25,6 @@ Kết Quả Thực Tế: Đã gửi yêu cầu thành công
 Trạng Thái: Thành công
 
 Kết quả sau khi kiểm thử:
+![image](https://github.com/user-attachments/assets/9fb7204e-62ef-48a5-9c48-2f0b8d506b71)
+
 
